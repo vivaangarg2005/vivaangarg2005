@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Vivaan Garg 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Passionate+about+Code,+Logic+%26+Clean+Design;Open+to+collaborate+on+tech+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Love+Code,+Logic+%26+Design;Open+to+Tech+Collabs" alt="Typing SVG" />
+
 </p>
 
 ---
