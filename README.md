@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Vivaan Garg 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Love+Code,+Logic+%26+Design;Open+to+Tech+Collabs" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Love+Code,+Logic+%26+Design;Open+to+Tech+Collabs" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,9 +49,9 @@
 
 ### 📂 Notable Projects
 
-- 🎮 **Rock Paper Scissors (JavaScript)** – A simple game built using HTML, CSS & JavaScript  
-- 🧮 **Basic Calculator (JavaScript)** – Web-based calculator using vanilla JS  
-- 📋 **To-Do List App (JavaScript)** – A responsive task manager with add/delete features  
+- 🎮 **Guess The Number** – A simple number guessing game using JavaScript  
+- ✂️ **Rock Paper Scissors** – Classic game built with HTML, CSS & JS  
+- 🧮 **Basic Calculator** – Web-based calculator using vanilla JavaScript  
 
 > *More JavaScript projects and interactive UIs on the way...*
 
