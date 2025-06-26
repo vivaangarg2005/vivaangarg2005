@@ -35,19 +35,19 @@
 
 <p align="left">
 <img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,git,github,vscode"/>
-
 </p>
-
 
 ---
 
 ### 📂 Notable Projects
 
-- 🎮 **Guess The Number** – A fun number guessing game built with JavaScript  
-- ✂️ **Rock Paper Scissors** – Classic game made using HTML, CSS, and JavaScript  
-- 🧮 **Basic Calculator** – Simple web calculator using vanilla JavaScript  
+- 🛒 **Flipkart Clone** – Static front-end clone of Flipkart homepage using HTML and CSS  
+- 🌾 **KrishiMitra Website** – Voice-enabled platform for rural users in regional languages  
+- 🧮 **Basic Calculator** – Web calculator built with HTML, CSS, and JavaScript  
+- ✂️ **Rock Paper Scissors** – Interactive game using vanilla JavaScript  
+- 🎮 **Guess The Number** – Simple number guessing game with user input logic
 
-> ⚡ *More interactive JavaScript projects in progress...*
+> ⚡ *More interactive projects and full-stack apps coming soon...*
 
 ---
 
