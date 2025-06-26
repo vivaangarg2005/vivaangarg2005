@@ -8,10 +8,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **2nd-year B.Tech CSE student** at GTBIT, IP University  
-- 🧠 Exploring **Full Stack Development** and sharpening my skills in **DSA & Backend**  
-- 🌱 Currently working on personal mini-projects to master core concepts  
-- 📌 Actively pushing small projects to GitHub to grow one repo at a time  
+- 🎓 2nd-year **B.Tech CSE** student at **GTBIT, IP University**
+- 💻 Passionate about **Full Stack Development** & mastering **DSA**
+- 🛠️ Building mini-projects to reinforce core concepts
+- 🚀 Committed to improving, one GitHub repo at a time
 
 ---
 
@@ -43,17 +43,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </p>
 
 ---
 
 ### 📂 Notable Projects
 
-- 🎮 **Guess The Number** – A simple number guessing game using JavaScript  
-- ✂️ **Rock Paper Scissors** – Classic game built with HTML, CSS & JS  
-- 🧮 **Basic Calculator** – Web-based calculator using vanilla JavaScript  
+- 🎮 **Guess The Number** – A fun number guessing game built with JavaScript  
+- ✂️ **Rock Paper Scissors** – Classic game made using HTML, CSS, and JavaScript  
+- 🧮 **Basic Calculator** – Simple web calculator using vanilla JavaScript  
 
-> *More JavaScript projects and interactive UIs on the way...*
+> ⚡ *More interactive JavaScript projects in progress...*
 
 ---
 
