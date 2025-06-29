@@ -9,23 +9,23 @@
 ### 🧑‍💻 About Me
 
 - 🎓 2nd-year **B.Tech CSE** student at **GTBIT, IP University**
-- 💻 Passionate about **Full Stack Development** & mastering **DSA**
-- 🛠️ Building mini-projects to reinforce core concepts
-- 🚀 Committed to improving, one GitHub repo at a time
+- 💻 Passionate about **Full Stack Development** and exploring **Data Structures & Algorithms**
+- 🛠️ Building mini-projects to reinforce concepts and gain real-world dev experience
+- 🚀 Constantly learning and growing — one GitHub repo at a time!
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/vivaan-garg-528a82351/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vivaangarg2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vivaangarg2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -33,8 +33,8 @@
 
 ### 💻 Tech Stack
 
-<p align="left">
-<img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,git,github,vscode"/>
+<p>
+  <img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -45,7 +45,8 @@
 - 🌾 **KrishiMitra Website** – Voice-enabled platform for rural users in regional languages  
 - 🧮 **Basic Calculator** – Web calculator built with HTML, CSS, and JavaScript  
 - ✂️ **Rock Paper Scissors** – Interactive game using vanilla JavaScript  
-- 🎮 **Guess The Number** – Simple number guessing game with user input logic
+- 🎮 **Guess The Number** – Simple number guessing game with user input logic  
+- ✅ **To-Do List App** – A practice project to manage daily tasks using HTML, CSS, and JS
 
 > ⚡ *More interactive projects and full-stack apps coming soon...*
 
@@ -66,6 +67,7 @@
 
 ### 🧊 Just One Last Thing
 
-> **🔧 Turning coffee into code & ideas into interfaces.**
+> 🔧 *Turning coffee into code & ideas into interfaces.*
 
 ---
+
