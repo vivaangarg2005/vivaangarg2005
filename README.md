@@ -46,7 +46,8 @@
 - 🧮 **Basic Calculator** – Web calculator built with HTML, CSS, and JavaScript  
 - ✂️ **Rock Paper Scissors** – Interactive game using vanilla JavaScript  
 - 🎮 **Guess The Number** – Simple number guessing game with user input logic  
-- ✅ **To-Do List App** – A practice project to manage daily tasks using HTML, CSS, and JS
+- ✅ **To-Do List App** – A practice project to manage daily tasks using HTML, CSS, and JS  
+- 🕒 **Digital Clock** – Real-time digital clock with 12/24-hour toggle and clean responsive UI  
 
 > ⚡ *More interactive projects and full-stack apps coming soon...*
 
@@ -70,4 +71,3 @@
 > 🔧 *Turning coffee into code & ideas into interfaces.*
 
 ---
-
