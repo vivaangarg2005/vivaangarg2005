@@ -1,7 +1,11 @@
 <h1 align="center">Hey, I'm Vivaan Garg 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3674B5&center=true&vCenter=true&width=435&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Love+Code,+Logic+%26+Design;Open+to+Tech+Collabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3674B5&center=true&vCenter=true&width=600&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Love+Code,+Logic+%26+Design;Open+to+Tech+Collabs!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
 </p>
 
 ---
@@ -9,51 +13,53 @@
 ### 🧑‍💻 About Me
 
 - 🎓 2nd-year **B.Tech CSE** student at **GTBIT, IP University**
-- 💻 Passionate about **Full Stack Development** and exploring **Data Structures & Algorithms**
-- 🛠️ Building mini-projects to reinforce concepts and gain real-world dev experience
-- 🚀 Constantly learning and growing — one GitHub repo at a time!
+- 💻 Passionate about **Full Stack Development** & exploring **Data Structures & Algorithms**
+- 🛠️ Building hands-on projects to reinforce learning & gain real-world dev experience
+- 🚀 Always curious, always coding — one repo at a time!
 
 ---
 
 ### 🔗 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/vivaan-garg-528a82351/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vivaangarg2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vivaangarg2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### ⚙️ Tech Stack
 
-<p>
-  <img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,c,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 📂 Notable Projects
+### 🌟 Featured Projects
 
-1. 🌾 **KrishiMitra Website** – Voice-enabled platform for rural users in regional languages  
-2. ✅ **To-Do List App** – A practice project to manage daily tasks using HTML, CSS, and JS  
-3. 🎮 **Guess The Number** – Simple number guessing game with user input logic  
-4. 🧮 **Basic Calculator** – Web calculator built with HTML, CSS, and JavaScript  
-5. ✂️ **Rock Paper Scissors** – Interactive game using vanilla JavaScript  
-6. 🕒 **Digital Clock** – Real-time digital clock with 12/24-hour toggle and clean responsive UI  
-7. 🛒 **Flipkart Clone** – Static front-end clone of Flipkart homepage using HTML and CSS  
+| 💡 Project | 📝 Description |
+|-----------|----------------|
+| 🌾 **KrishiMitra Website** | Voice-enabled platform for rural users in regional languages |
+| ✅ **To-Do List App** | Task manager using HTML, CSS, and JavaScript |
+| 🎮 **Guess The Number** | A fun game to guess the right number |
+| 🧮 **Basic Calculator** | Calculator built with HTML, CSS, and JavaScript |
+| ✂️ **Rock Paper Scissors** | Interactive game using vanilla JavaScript |
+| 🕒 **Digital Clock** | Real-time clock with responsive UI & toggle option |
+| 🛒 **Flipkart Clone** | Static homepage of Flipkart using HTML and CSS |
 
-> ⚡ *More interactive projects and full-stack apps coming soon...*
+> 🔥 *More projects and full-stack builds coming soon...*
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
@@ -66,8 +72,14 @@
 
 ---
 
-### 🧊 Just One Last Thing
+### 💬 Quote I Live By
 
-> 🔧 *Turning coffee into code & ideas into interfaces.*
+> *"The best way to predict the future is to invent it."* — Alan Kay
 
 ---
+
+### 🧊 Just One Last Thing
+
+<p align="center">
+  <b>🔧 Turning coffee into code & ideas into interfaces ☕💡</b><br/>
+</p>
