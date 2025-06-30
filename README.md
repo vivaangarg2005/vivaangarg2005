@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vivaan Garg 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Love+Code,+Logic+%26+Design;Open+to+Tech+Collabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3674B5&center=true&vCenter=true&width=435&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Love+Code,+Logic+%26+Design;Open+to+Tech+Collabs" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,13 +41,13 @@
 
 ### 📂 Notable Projects
 
-- 🛒 **Flipkart Clone** – Static front-end clone of Flipkart homepage using HTML and CSS  
-- 🌾 **KrishiMitra Website** – Voice-enabled platform for rural users in regional languages  
-- 🧮 **Basic Calculator** – Web calculator built with HTML, CSS, and JavaScript  
-- ✂️ **Rock Paper Scissors** – Interactive game using vanilla JavaScript  
-- 🎮 **Guess The Number** – Simple number guessing game with user input logic  
-- ✅ **To-Do List App** – A practice project to manage daily tasks using HTML, CSS, and JS  
-- 🕒 **Digital Clock** – Real-time digital clock with 12/24-hour toggle and clean responsive UI  
+1. 🌾 **KrishiMitra Website** – Voice-enabled platform for rural users in regional languages  
+2. ✅ **To-Do List App** – A practice project to manage daily tasks using HTML, CSS, and JS  
+3. 🎮 **Guess The Number** – Simple number guessing game with user input logic  
+4. 🧮 **Basic Calculator** – Web calculator built with HTML, CSS, and JavaScript  
+5. ✂️ **Rock Paper Scissors** – Interactive game using vanilla JavaScript  
+6. 🕒 **Digital Clock** – Real-time digital clock with 12/24-hour toggle and clean responsive UI  
+7. 🛒 **Flipkart Clone** – Static front-end clone of Flipkart homepage using HTML and CSS  
 
 > ⚡ *More interactive projects and full-stack apps coming soon...*
 
