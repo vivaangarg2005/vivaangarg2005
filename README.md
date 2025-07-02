@@ -38,22 +38,23 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,c,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,git,github,vscode,html,css,js" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-| 💡 Project | 📝 Description |
-|-----------|----------------|
-| 🌾 **KrishiMitra Website** | Voice-enabled platform for rural users in regional languages |
-| ✅ **To-Do List App** | Task manager using HTML, CSS, and JavaScript |
-| 🎮 **Guess The Number** | A fun game to guess the right number |
-| 🧮 **Basic Calculator** | Calculator built with HTML, CSS, and JavaScript |
-| ✂️ **Rock Paper Scissors** | Interactive game using vanilla JavaScript |
-| 🕒 **Digital Clock** | Real-time clock with responsive UI & toggle option |
-| 🛒 **Flipkart Clone** | Static homepage of Flipkart using HTML and CSS |
+| 💡 Project               | 📝 Description                                                  |
+|--------------------------|-----------------------------------------------------------------|
+| 🌾 **KrishiMitra**       | Voice-enabled platform for rural users in regional languages    |
+| 🛒 **Flipkart Clone**    | Static homepage replica using HTML and CSS                      |
+| ✅ **To-Do List App**    | Simple task manager using HTML, CSS, and JavaScript             |
+| 📏 **Unit Converter**    | Real-time, bidirectional unit converter (length units)          |
+| 🧮 **Basic Calculator**  | Arithmetic calculator with real-time logic and dark mode toggle |
+| 🕒 **Digital Clock**     | Live digital clock with responsive design and toggle theme      |
+| ✂️ **Rock Paper Scissors** | Interactive RPS game built using vanilla JavaScript         |
+| 🎮 **Guess The Number**  | Fun number guessing game with interactive UI                   |
 
 > 🔥 *More projects and full-stack builds coming soon...*
 
