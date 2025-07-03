@@ -15,7 +15,7 @@
 - 🎓 2nd-year **B.Tech CSE** student at **GTBIT, IP University**
 - 💻 Passionate about **Full Stack Development** & exploring **Data Structures & Algorithms**
 - 🛠️ Building hands-on projects to reinforce learning & gain real-world dev experience
-- 🚀 Always curious, always coding — one repo at a time!
+- 🚀 Always curious, always coding — one repo at a time
 
 ---
 
@@ -43,20 +43,21 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects (Ranked from Best ➝ Basic)
 
-| 💡 Project               | 📝 Description                                                  |
-|--------------------------|-----------------------------------------------------------------|
-| 🌾 **KrishiMitra**       | Voice-enabled platform for rural users in regional languages    |
-| 🛒 **Flipkart Clone**    | Static homepage replica using HTML and CSS                      |
-| ✅ **To-Do List App**    | Simple task manager using HTML, CSS, and JavaScript             |
-| 📏 **Unit Converter**    | Real-time, bidirectional unit converter (length units)          |
-| 🧮 **Basic Calculator**  | Arithmetic calculator with real-time logic and dark mode toggle |
-| 🕒 **Digital Clock**     | Live digital clock with responsive design and toggle theme      |
-| ✂️ **Rock Paper Scissors** | Interactive RPS game built using vanilla JavaScript         |
-| 🎮 **Guess The Number**  | Fun number guessing game with interactive UI                   |
+| 💡 Project                 | 📝 Description                                                   |
+|----------------------------|------------------------------------------------------------------|
+| 🌾 **KrishiMitra**         | Voice-enabled agri platform for rural users in regional languages |
+| 💱 **Currency Converter**  | Real-time currency rates using ExchangeRate API & dynamic flags  |
+| 🛒 **Flipkart Clone**      | Pixel-perfect static homepage built with HTML & CSS              |
+| ✅ **To-Do List App**      | Task manager with dynamic add/remove/edit functionality          |
+| 📏 **Unit Converter**      | Real-time, bidirectional converter (length, weight, etc.)        |
+| 🧮 **Basic Calculator**    | Functional calculator with dark mode and keyboard input support  |
+| 🕒 **Digital Clock**       | Live digital clock with theme toggle and responsive design       |
+| ✂️ **Rock Paper Scissors**| Fun game with clean UI and game logic in JavaScript              |
+| 🎮 **Guess The Number**    | Interactive number guessing game with randomization              |
 
-> 🔥 *More projects and full-stack builds coming soon...*
+> 🔥 *More full-stack & collaborative projects coming soon...*
 
 ---
 
