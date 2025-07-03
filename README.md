@@ -43,8 +43,7 @@
 
 ---
 
-### 🌟 Featured Projects (Ranked from Best ➝ Basic)
-
+### 🌟 Featured Projects 
 | 💡 Project                 | 📝 Description                                                   |
 |----------------------------|------------------------------------------------------------------|
 | 🌾 **KrishiMitra**         | Voice-enabled agri platform for rural users in regional languages |
