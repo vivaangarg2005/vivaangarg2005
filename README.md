@@ -13,25 +13,26 @@
 ### 👨‍💻 About Me
 
 - 🎓 2nd-year **B.Tech CSE** student at **GTBIT, IP University**
-- 🌱 Currently learning **Full Stack Development** and **Data Structures & Algorithms**
-- 🛠️ Working on personal projects to turn theory into practice
-- 💬 Always curious, always building — one commit at a time
+- 🌱 Learning **Full Stack Development** & **Data Structures**
+- 🛠️ Building real-world projects and improving every day
+- 🤝 Always open to learning and collaboration
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/vivaangarg2005" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
   <a href="https://www.linkedin.com/in/vivaan-garg-528a82351/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:vivaangarg2005@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vivaangarg2005" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
+
 
 ---
 
@@ -43,21 +44,20 @@
 
 ---
 
-### 🚀 Projects I've Built
+### 🚀 Projects
 
-| 💡 Project Name             | 🧩 Description                                                   |
-|----------------------------|------------------------------------------------------------------|
-| 🌾 **KrishiMitra**         | Voice-enabled agri platform for rural users in regional languages |
-| 💱 **Currency Converter**  | Real-time currency rates using ExchangeRate API & dynamic flags  |
-| 🛒 **Flipkart Clone**      | Pixel-perfect static homepage built with HTML & CSS              |
-| ✅ **To-Do List App**      | Task manager with dynamic add/remove/edit functionality          |
-| 📏 **Unit Converter**      | Real-time, bidirectional converter (length, weight, etc.)        |
-| 🧮 **Basic Calculator**    | Functional calculator with dark mode and keyboard input support  |
-| 🕒 **Digital Clock**       | Live digital clock with theme toggle and responsive design       |
-| ✂️ **Rock Paper Scissors**| Fun game with clean UI and game logic in JavaScript              |
-| 🎮 **Guess The Number**    | Interactive number guessing game with randomization              |
-
-> 🔥 *More full-stack & collaborative projects coming soon...*
+| Project                | Description                                              |
+|------------------------|----------------------------------------------------------|
+| **🍽️ ReFood**          | Frontend food donation platform built during IBM Training |
+| **🌾 KrishiMitra**      | Voice-enabled agri help app in regional languages         |
+| **💱 Currency Converter** | Real-time exchange app with dynamic flags                |
+| **🛒 Flipkart Clone**    | Static replica of Flipkart homepage                      |
+| **✅ To-Do List**        | Task manager with edit/delete features                   |
+| **📏 Unit Converter**    | Live converter for length, weight, etc.                  |
+| **🧮 Calculator**        | Simple calculator with dark mode                         |
+| **🕒 Digital Clock**     | Clock with theme toggle and live time                    |
+| **✂️ RPS Game**          | Rock-Paper-Scissors game with game logic in JS           |
+| **🎮 Guess The Number**  | Random number guessing game                             |
 
 ---
 
@@ -71,19 +71,26 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaangarg2005&theme=tokyonight&border_radius=10&hide_border=true" width="60%" />
 </p>
-<p align="center" style="margin-top: 16px; font-family: Segoe UI, sans-serif; font-size: 14px; color: #c9d1d9;">
+
+<p align="center">
   🔥 Profile Views:
-  <img src="https://img.shields.io/badge/-22-00BFFF?style=flat-square&label=&color=00BFFF" alt="View Count" height="20" style="vertical-align: middle; border-radius: 6px;" />
+  <img src="https://komarev.com/ghpvc/?username=vivaangarg2005&style=flat-square&color=00BFFF" alt="View Count" />
 </p>
-
-
-
 
 ---
 
 ### 💬 Quote I Live By
 
-> *"The best way to predict the future is to invent it."* — **Alan Kay**
+> _"Simplicity is the soul of efficiency."_ — **Austin Freeman**
+
+<!-- Rotate quotes manually from this list:
+> "The best way to predict the future is to invent it." — Alan Kay
+> "Talk is cheap. Show me the code." — Linus Torvalds
+> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke
+> "First, solve the problem. Then, write the code." — John Johnson
+> "Code never lies, comments sometimes do." — Ron Jeffries
+-->
 
 ---
 
@@ -92,4 +99,3 @@
 <p align="center">
   <b>🔧 Turning coffee into code & ideas into interfaces ☕💡</b>
 </p>
-
