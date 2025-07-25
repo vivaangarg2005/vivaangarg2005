@@ -33,7 +33,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 🧰 Tech Stack
@@ -73,7 +72,6 @@
 </p>
 
 <p align="center">
-  🔥 Profile Views:
   <img src="https://komarev.com/ghpvc/?username=vivaangarg2005&style=flat-square&color=00BFFF" alt="View Count" />
 </p>
 
@@ -81,7 +79,7 @@
 
 ### 💬 Quote I Live By
 
-> _"Simplicity is the soul of efficiency."_ — **Austin Freeman**
+> _"First, solve the problem. Then, write the code."_ — **John Johnson**
 
 <!-- Rotate quotes manually from this list:
 > "The best way to predict the future is to invent it." — Alan Kay
