@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 2nd-year **B.Tech CSE** student at **GTBIT, IP University**
+- 🎓 3rd-year **B.Tech IT** student at **GTBIT, IP University**
 - 🌱 Learning **Full Stack Development** & **Data Structures**
 - 🛠️ Building real-world projects and improving every day
 - 🤝 Always open to learning and collaboration
@@ -38,7 +38,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,git,github,mysql,html,css,js,react,vite,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,git,github,mysql,html,css,js,react,vite,vercel,netlify,tailwind" />
 </p>
 
 ---
