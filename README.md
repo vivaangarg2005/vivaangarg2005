@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vivaan Garg 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=CS+Student+@+GTBIT,+IPU;Learning+Full+Stack+%26+DSA;Love+Code,+Logic+%26+Design;Open+to+Tech+Collabs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=IT+Student+@+GTBIT,+IPU;Full+Stack+%26+DSA+Enthusiast;Lover+of+Code,+Logic+%26+Design;Exploring+Web+Development;Always+Open+to+Tech+Collabs!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,15 +13,19 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year **B.Tech IT** student at **GTBIT, IP University**
-- 🌱 Learning **Full Stack Development** & **Data Structures**
-- 🛠️ Building real-world projects and improving every day
-- 🤝 Always open to learning and collaboration
+- 🌱 Learning **Full Stack Development**, **Data Structures**, and exploring **Web Development**
+- 🛠️ Passionate about building impactful, real-world projects
+- 🤝 Believer in collaboration, knowledge sharing, and lifelong learning
+- 🌍 Dreaming of crafting products that blend **tech + creativity**
 
 ---
 
 ### 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://vivaangarg.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <a href="https://github.com/vivaangarg2005" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
@@ -37,30 +41,43 @@
 
 ### 🧰 Tech Stack
 
+#### 🔹 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,git,github,mysql,html,css,tailwind,js,react,vite,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+#### 🔹 Web Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite" />
+</p>
+
+#### 🔹 Databases & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel,netlify" />
 </p>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-| Project                | Description                                              |
-|------------------------|----------------------------------------------------------|
-| **🍽️ ReFood**          | Frontend food donation platform built during IBM Training |
-| **🌾 KrishiMitra**      | Voice-enabled agri help app in regional languages         |
-| **💱 Currency Converter** | Real-time exchange app with dynamic flags                |
-| **🛒 Flipkart Clone**    | Static replica of Flipkart homepage                      |
-| **✅ To-Do List**        | Task manager with edit/delete features                   |
-| **📏 Unit Converter**    | Live converter for length, weight, etc.                  |
-| **🧮 Calculator**        | Simple calculator with dark mode                         |
-| **🕒 Digital Clock**     | Clock with theme toggle and live time                    |
-| **✂️ RPS Game**          | Rock-Paper-Scissors game with game logic in JS           |
-| **🎮 Guess The Number**  | Random number guessing game                             |
+| Project                   | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| **🍽️ ReFood**             | Frontend food donation platform built during IBM Training                   |
+| **🌾 KrishiMitra**         | Voice-enabled agri help app supporting regional languages                   |
+| **💱 Currency Converter**  | Real-time exchange app with dynamic flags                                   |
+| **🛒 Flipkart Clone**       | Static replica of Flipkart homepage                                        |
+| **✅ To-Do List**           | Task manager with edit/delete features                                     |
+| **📏 Unit Converter**       | Live converter for length, weight, and more                                |
+| **🧮 Calculator**           | Clean calculator with dark mode                                            |
+| **🕒 Digital Clock**        | Real-time clock with theme toggle                                          |
+| **✂️ RPS Game**             | Rock-Paper-Scissors with JS game logic                                     |
+| **🎮 Guess The Number**     | Fun number guessing game                                                   |
+
+> 🔎 *More projects & details available on my [Portfolio](https://vivaangarg.netlify.app)*  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
@@ -77,23 +94,8 @@
 
 ---
 
-### 💬 Quote I Live By
-
-> _"First, solve the problem. Then, write the code."_ — **John Johnson**
-
-<!-- Rotate quotes manually from this list:
-> "The best way to predict the future is to invent it." — Alan Kay
-> "Talk is cheap. Show me the code." — Linus Torvalds
-> "Simplicity is the soul of efficiency." — Austin Freeman
-> "Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke
-> "First, solve the problem. Then, write the code." — John Johnson
-> "Code never lies, comments sometimes do." — Ron Jeffries
--->
-
----
-
-### ☕ Just One Last Thing
+### ☕ Just One Last Thing  
 
 <p align="center">
-  <b>🔧 Turning coffee into code & ideas into interfaces ☕💡</b>
+  <b>🔧 Turning coffee into code & ideas into impactful experiences ☕💡</b>
 </p>
