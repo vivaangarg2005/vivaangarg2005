@@ -24,16 +24,16 @@
 
 <p align="center">
   <a href="https://vivaangarg.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/vivaangarg2005" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/vivaan-garg-528a82351/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:vivaangarg2005@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </p>
 
@@ -43,17 +43,20 @@
 
 #### 🔹 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="languages" />
 </p>
 
 #### 🔹 Web Development  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite" alt="web dev" />
 </p>
 
 #### 🔹 Databases & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel,netlify" alt="databases and tools" />
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" />
+  </a>
 </p>
 
 ---
@@ -73,19 +76,19 @@
 | **✂️ RPS Game**             | Rock-Paper-Scissors with JS game logic                                     |
 | **🎮 Guess The Number**     | Fun number guessing game                                                   |
 
-> 🔎 *More projects & details available on my [Portfolio](https://vivaangarg.netlify.app)*  
+> 🔎 *More projects & details available on my [Portfolio](https://vivaangarg.netlify.app)*
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="48%" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaangarg2005&theme=tokyonight&border_radius=10&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaangarg2005&theme=tokyonight&border_radius=10&hide_border=true" width="60%" alt="Streak stats" />
 </p>
 
 <p align="center">
