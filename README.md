@@ -1,16 +1,16 @@
-
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=240&section=header&text=Vivaan%20Garg&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0ea5e9&height=250&section=header&text=Vivaan%20Garg&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;600%2B+DSA+Problems+Solved;Hackathon+Finalist;Exploring+Full+Stack+%26+ML;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;600%2B+DSA+Problems+Solved;Hackathon+Finalist;Exploring+Full+Stack+%26+ML;Open+to+Internship+Opportunities"/>
 
 <br/>
 
 <a href="https://vivaangarg.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/vivaangarg2005">
@@ -35,38 +35,49 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+```yaml
+name: Vivaan Garg
+role: Full Stack Developer & ML Enthusiast
+education: B.Tech IT @ GTBIT (GGSIPU)
+location: Delhi, India
 
-🎓 3rd-year **B.Tech Information Technology** student at **GTBIT (GGSIPU), Delhi**  
-💻 Passionate about **Full Stack Development**, **Machine Learning**, and scalable applications  
-🧠 Solved **600+ DSA problems** across coding platforms  
-🏆 Peak **LeetCode Contest Rating: 1660**  
-🚀 Building AI-powered and real-world impactful products  
-🌱 Exploring backend systems, APIs, and modern web technologies  
-⚡ Love blending **logic, creativity, and design** to create digital experiences  
+currently_working_on:
+  - Full Stack Development
+  - Machine Learning Projects
+  - DSA & Competitive Programming
+
+interests:
+  - AI-powered Applications
+  - Backend Engineering
+  - Modern UI/UX
+  - Scalable Web Apps
+
+achievements:
+  - 600+ DSA Problems Solved
+  - Peak LeetCode Rating: 1660
+  - Hackathon Finalist
+````
 
 ---
 
 # 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
 </p>
 
-### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+### ⚙️ Backend & Tools
 
-### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,vercel,netlify" />
 </p>
 
 ---
@@ -75,33 +86,38 @@
 
 ## 🤖 AI Resume Analyzer
 
-AI-powered ATS Resume Analyzer using **Google Gemini API**.
+AI-powered ATS Resume Analyzer using Google Gemini API.
 
 ### ✨ Features
-- ATS compatibility analysis
-- Smart keyword suggestions
-- Resume scoring system
-- Real-time AI feedback
+
+* Resume scoring system
+* ATS compatibility analysis
+* Smart keyword suggestions
+* Real-time AI feedback
 
 ### 🛠️ Tech Stack
+
 `React` • `Node.js` • `Express.js` • `Gemini API` • `Tailwind CSS`
 
 ---
 
 ## 🏥 Disease Prediction System
 
-Machine Learning-based disease prediction system using **Random Forest Algorithm** and **Streamlit**.
+Machine Learning-based disease prediction system using Random Forest Algorithm and Streamlit.
 
 ### ✨ Features
-- Predicts diseases based on symptoms
-- Interactive Streamlit UI
-- Real-time predictions
-- Trained on symptom datasets
+
+* Predicts diseases from symptoms
+* Interactive Streamlit UI
+* Real-time predictions
+* Trained on symptom datasets
 
 ### 🛠️ Tech Stack
+
 `Python` • `Scikit-learn` • `Pandas` • `Streamlit`
 
 ### 🌐 Live Demo
+
 🔗 https://disease-predictor1.streamlit.app/
 
 ---
@@ -111,12 +127,14 @@ Machine Learning-based disease prediction system using **Random Forest Algorithm
 Smart tourism planning platform with budget-based itinerary generation.
 
 ### ✨ Features
-- Dynamic travel planning
-- Budget optimization
-- Responsive modern UI
-- User-friendly experience
+
+* Dynamic travel planning
+* Budget optimization
+* Responsive UI
+* Better travel experience
 
 ### 🛠️ Tech Stack
+
 `React.js` • `Tailwind CSS` • `JavaScript`
 
 ---
@@ -126,22 +144,24 @@ Smart tourism planning platform with budget-based itinerary generation.
 Voice-enabled agriculture support platform focused on accessibility and regional language support.
 
 ### ✨ Features
-- Voice-enabled support
-- Regional language accessibility
-- Farmer-focused solutions
-- Simple user experience
+
+* Voice-enabled support
+* Regional language accessibility
+* Farmer-focused solutions
+* Easy-to-use interface
 
 ### 🛠️ Tech Stack
+
 `React.js` • `JavaScript` • `APIs`
 
 ---
 
 # 🏆 Achievements
 
-- 🧠 Solved **600+ DSA Problems**
-- ⭐ Peak **LeetCode Rating: 1660**
-- 🚀 Finalist at **QubitX**, **MatheThon**, and **Nexathon**
-- 🥇 Secured **1st Prize** in *Debug & Run* competition
+* 🧠 Solved **600+ DSA Problems**
+* ⭐ Peak **LeetCode Rating: 1660**
+* 🚀 Finalist at **QubitX**, **MatheThon**, and **Nexathon**
+* 🥇 Secured **1st Prize** in *Debug & Run* competition
 
 ---
 
@@ -167,7 +187,7 @@ Voice-enabled agriculture support platform focused on accessibility and regional
 
 ---
 
-# 📬 Let's Connect
+# 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:vivaangarg2005@gmail.com">
@@ -187,7 +207,7 @@ Voice-enabled agriculture support platform focused on accessibility and regional
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:111827&height=120&section=footer"/>
 
 ### ⚡ Building impactful digital experiences with code, AI & creativity
 
