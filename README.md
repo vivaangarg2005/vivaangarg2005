@@ -100,18 +100,28 @@ Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaangarg2005&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=vivaangarg2005&theme=tokyonight&hide_border=true&background=0D1117" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
-</div>
 
----
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+```
+## 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0ea5e9/vivaangarg2005" alt="Vivaan Garg's Github chart" />
+</p>
+```
+
 
 ## 📈 Contribution Graph
 
