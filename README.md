@@ -151,6 +151,13 @@ Voice-enabled agriculture support platform focused on accessibility and regional
 
 ---
 
+## 📅 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/vivaangarg2005" />
+</p>
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
