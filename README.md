@@ -114,14 +114,13 @@ Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
-```
+
+
 ## 🔥 Contribution Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0ea5e9/vivaangarg2005" alt="Vivaan Garg's Github chart" />
+  <img src="https://ghchart.rshah.org/38BDF8/vivaangarg2005" alt="Vivaan Garg's Github chart" />
 </p>
-```
-
 
 ## 📈 Contribution Graph
 
