@@ -160,11 +160,12 @@ A voice-enabled agriculture support platform designed for accessibility and regi
 
 ---
 
-## 📅 Contribution Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/vivaangarg2005" alt="Contribution Heatmap" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivaangarg2005&theme=github_dark" />
 </p>
+
+
 
 ---
 
