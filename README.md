@@ -1,156 +1,279 @@
-<h1 align="center">Hey, I'm Vivaan Garg 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;600%2B+DSA+Problems+Solved;Building+AI-Powered+Applications;Hackathon+Finalist+%7C+Open+to+Collaborations" />
-</p>
+# Vivaan Garg
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;600%2B+DSA+Problems+Solved;Building+AI-Powered+Experiences;Hackathon+Finalist+%7C+Open+to+Opportunities" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivaangarg2005&label=Profile%20Views&color=00bfff&style=for-the-badge"/>
-</p>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Code.%20Build.%20Innovate.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-# 🚀 About Me
+<br/>
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<a href="https://vivaangarg.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-🎓 3rd-year **B.Tech IT** student at **GTBIT, GGSIPU**
-💻 Passionate about **Full Stack Development**, **Machine Learning**, and scalable web apps
-🧠 Solved **600+ DSA problems** across coding platforms
-🏆 Peak **LeetCode Rating: 1660**
-🚀 Building AI-powered and real-world impactful projects
-🌱 Exploring backend systems, APIs, and modern web technologies
-⚡ Love blending **logic + design + creativity**
+<a href="https://github.com/vivaangarg2005">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/vivaan-garg-528a82351/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-# 🌐 Connect With Me
+<a href="mailto:vivaangarg2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://vivaangarg.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
+<br/><br/>
 
-  <a href="https://github.com/vivaangarg2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=vivaangarg2005&label=Profile+Views&color=0ea5e9&style=flat-square" />
 
-  <a href="https://www.linkedin.com/in/vivaan-garg-528a82351/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:vivaangarg2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# About Me
 
-## 💻 Languages
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749695-6c9b1d53-4a4e-4f39-9c9f-4f53c9f5f5f5.gif" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
-</p>
+```yaml
+name: Vivaan Garg
+located_in: Delhi, India
+current_role: Full Stack Developer
+education:
+  ["B.Tech Information Technology", "GTBIT - GGSIPU"]
 
-## 🎨 Frontend Development
+currently_learning:
+  ["Backend Development", "Machine Learning", "System Design"]
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite" />
-</p>
+interests:
+  ["Web Apps", "AI Tools", "Open Source", "Hackathons"]
 
-## ⚙️ Backend & Databases
+2025_goals:
+  ["Crack Top Internship", "Build SaaS Products", "Contribute Open Source"]
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+<br/>
 
-## 🧰 Tools & Platforms
+# Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
-</p>
+<div align="center">
 
----
+### Languages
 
-# 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
 
-## 🤖 AI Resume Analyzer
+### Frontend
 
-🔹 AI-powered ATS resume analyzer using Gemini API
-🔹 Smart feedback & keyword optimization
-🔹 Resume scoring system
-🔹 Built with React, Node.js & Tailwind CSS
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite,bootstrap" />
 
----
+### Backend & Database
 
-## 🏥 Disease Prediction System
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-🔹 Machine Learning project using Random Forest
-🔹 Predicts diseases from symptoms
-🔹 Built interactive Streamlit UI
-🔹 Real-time prediction system
+### Tools & Platforms
 
-🌐 Live Demo:
-https://disease-predictor1.streamlit.app/
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+
+</div>
 
 ---
 
-## 🌍 YatraMitra
+# Featured Projects
 
-🔹 Smart tourism planning platform
-🔹 Budget-based itinerary generation
-🔹 Responsive modern UI
-🔹 Built using React & Tailwind CSS
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## AI Resume Analyzer
+
+AI-powered ATS Resume Analyzer using **Gemini API**.
+
+### Highlights
+
+* Resume scoring system
+* ATS compatibility analysis
+* Smart keyword suggestions
+* Real-time AI feedback
+
+### Tech Used
+
+React • Node.js • Express • Gemini API • Tailwind CSS
+
+</td>
+
+<td width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/216655846-d7f7e37d-2b8c-41d0-bf60-0d9c9ce98d8f.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🌾 KrishiMitra
+<div align="center">
 
-🔹 Voice-enabled agriculture support app
-🔹 Regional language accessibility
-🔹 Focused on helping farmers with technology
+<table>
+<tr>
+<td width="50%">
+
+## Disease Prediction System
+
+Machine Learning-based disease prediction platform using **Random Forest**.
+
+### Highlights
+
+* Predicts diseases from symptoms
+* Interactive Streamlit UI
+* Real-time predictions
+* Trained on symptom datasets
+
+### Tech Used
+
+Python • Scikit-learn • Streamlit • Pandas
+
+### Live Demo
+
+[https://disease-predictor1.streamlit.app/](https://disease-predictor1.streamlit.app/)
+
+</td>
+
+<td width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50ba1b1c0.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🏆 Achievements
+<div align="center">
 
+<table>
+<tr>
+<td width="50%">
+
+## YatraMitra
+
+Smart tourism planning web platform.
+
+### Highlights
+
+* Budget-based trip planning
+* Dynamic itinerary generation
+* Responsive modern UI
+* Travel experience optimization
+
+### Tech Used
+
+React • Tailwind CSS • JavaScript
+
+</td>
+
+<td width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212750005-fdecf6b3-4f62-4f0b-8d8f-9ec0fd61f8c7.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## KrishiMitra
+
+Voice-enabled agriculture support application.
+
+### Highlights
+
+* Regional language support
+* Farmer-friendly accessibility
+* Smart agriculture assistance
+* User-focused experience
+
+### Tech Used
+
+React • APIs • JavaScript
+
+</td>
+
+<td width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-9ba6-48c7-8ecf-5c2f95d73d62.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# Achievements
+
+<div align="center">
+
+🏆 Solved **600+ DSA Problems** across coding platforms
+⭐ Peak **LeetCode Rating: 1660**
 🥇 1st Prize — Debug & Run Competition
-🚀 Finalist at QubitX, MatheThon & Nexathon
-🧠 Solved 600+ DSA Problems
-⭐ Peak LeetCode Rating: 1660
+🚀 Finalist at **QubitX**, **MatheThon**, and **Nexathon**
+
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaangarg2005&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
----
+<br/><br/>
 
-# 🐍 Contribution Snake
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaangarg2005&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</div>
 
 ---
 
-<h3 align="center">⚡ Turning ideas into impactful digital experiences 🚀</h3>
+# Contribution Graph
 
-<p align="center">
-  Made with ❤️ by <b>Vivaan Garg</b>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivaangarg2005&theme=tokyo-night&hide_border=true&radius=12" />
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" />
+
+### Building impactful products with code, AI & creativity
+
+Made with ❤️ by Vivaan Garg
+
+</div>
