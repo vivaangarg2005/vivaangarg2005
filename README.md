@@ -115,18 +115,9 @@ Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 </div>
 
 
-## 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/38BDF8/vivaangarg2005" alt="Vivaan Garg's Github chart" />
-</p>
 
 
-## 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39D353/vivaangarg2005" alt="Vivaan Garg's Github chart" />
-</p>
+<p align="center"> <img src="https://ghchart.rshah.org/39d353/vivaangarg2005" /> </p>
 
 
 ## 📬 Let's Connect!
