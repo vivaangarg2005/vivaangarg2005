@@ -89,7 +89,7 @@
 ## 📅 Contribution Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/vivaangarg2005" alt="Vivaan's Contribution Heatmap" />
+  <img src="https://ghchart.rshah.org/40c463/vivaangarg2005" alt="Vivaan's Contribution Heatmap" />
 </p>
 
 ## 📈 Contribution Graph
