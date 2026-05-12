@@ -190,4 +190,4 @@ Voice-enabled agriculture support platform focused on accessibility and regional
 <p align="center">
   Made with ❤️ by <b>Vivaan Garg</b>
 </p>
-```
+
