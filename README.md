@@ -117,7 +117,10 @@ Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 
 
 
-<p align="center"> <img src="https://ghchart.rshah.org/39d353/vivaangarg2005" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivaangarg2005&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
+</p>
+
 
 
 ## 📬 Let's Connect!
