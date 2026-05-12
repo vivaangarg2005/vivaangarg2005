@@ -39,7 +39,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 3rd-year **B.Tech Information Technology** student at **GTBIT (GGSIPU)**, Delhi  
 - 💡 Passionate about building scalable and impactful digital products  
@@ -64,134 +64,66 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-## 🧠 AI Resume Analyzer
+### 🧠 AI Resume Analyzer
 
 AI-powered ATS Resume Analyzer using **Google Gemini API**.
 
-### ✨ Features
+#### ✨ Features
 - ATS compatibility analysis
 - Resume scoring system
 - Smart keyword suggestions
 - Real-time AI feedback
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 React • Node.js • Express.js • Gemini API • Tailwind CSS
-
-</td>
-
-<td width="50%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-## 🩺 Disease Prediction System
+### 🩺 Disease Prediction System
 
 Machine Learning-based disease prediction system using **Random Forest Algorithm** and **Streamlit**.
 
-### ✨ Features
+#### ✨ Features
 - Predicts diseases based on symptoms
 - Interactive Streamlit UI
 - Real-time predictions
 - Trained on symptom datasets
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 Python • Scikit-learn • Pandas • Streamlit
 
-### 🌐 Live Demo
+#### 🌐 Live Demo
 🔗 https://disease-predictor1.streamlit.app/
-
-</td>
-
-<td width="50%">
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" />
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-## ✈️ YatraMitra
+### ✈️ YatraMitra
 
 Smart tourism planning platform focused on budget-based itinerary generation.
 
-### ✨ Features
+#### ✨ Features
 - Dynamic travel planning
 - Budget optimization
 - Responsive modern UI
 - Enhanced travel experience
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 React.js • Tailwind CSS • JavaScript
-
-</td>
-
-<td width="50%">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%" />
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-## 🌾 KrishiMitra
+### 🌾 KrishiMitra
 
 Voice-enabled agriculture support platform designed for accessibility and regional farmers.
 
-### ✨ Features
+#### ✨ Features
 - Voice-enabled support
 - Regional language accessibility
 - Farmer-focused solutions
 - User-friendly interface
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 React.js • APIs • JavaScript
-
-</td>
-
-<td width="50%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
