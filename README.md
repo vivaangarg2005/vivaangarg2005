@@ -103,7 +103,7 @@ Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=vivaangarg2005&theme=tokyonight&hide_border=true&background=0D1117" />
+
 
 </div>
 
@@ -111,7 +111,6 @@ Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -122,13 +121,13 @@ Full Stack Developer • Machine Learning Enthusiast • Problem Solver
   <img src="https://ghchart.rshah.org/38BDF8/vivaangarg2005" alt="Vivaan Garg's Github chart" />
 </p>
 
-## 📈 Contribution Graph
+
+## 🔥 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivaangarg2005&theme=tokyo-night&hide_border=true&radius=16" />
+  <img src="https://ghchart.rshah.org/39D353/vivaangarg2005" alt="Vivaan Garg's Github chart" />
 </p>
 
----
 
 ## 📬 Let's Connect!
 
