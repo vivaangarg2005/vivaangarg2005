@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0ea5e9&height=250&section=header&text=Vivaan%20Garg&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
