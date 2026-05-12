@@ -86,19 +86,6 @@
 
 ---
 
-## 📅 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/vivaangarg2005" alt="Vivaan's Contribution Heatmap" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivaangarg2005&bg_color=0D1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Vivaan's Activity Graph" />
-</p>
-
----
 <div align="center">
 
 ### 📬 Let's Connect
