@@ -139,7 +139,7 @@ React.js • APIs • JavaScript
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
 
 <img width="49%" src="https://streak-stats.demolab.com?user=vivaangarg2005&theme=tokyonight&hide_border=true&background=0D1117" />
 
@@ -149,7 +149,7 @@ React.js • APIs • JavaScript
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
 
 </div>
 
