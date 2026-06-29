@@ -1,10 +1,10 @@
-<div align="center">
+# <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Vivaan%20Garg&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 # Full Stack Developer • Machine Learning Enthusiast • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=600%2B+DSA+Problems+Solved;Building+AI-Powered+Applications;Hackathon+Finalist;Exploring+Backend+%26+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Hackathon+Finalist;Exploring+Backend+%26+Machine+Learning" alt="Typing SVG" />
 <br/>
 
 <a href="https://vivaangarg.netlify.app">
@@ -39,12 +39,12 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 3rd-year **B.Tech Information Technology** student at **GTBIT (GGSIPU)**, Delhi  
-- 💡 Passionate about building scalable and impactful digital products  
-- 🚀 Exploring **Full Stack Development**, **Machine Learning**, and **Backend Engineering**  
-- 🏆 Solved **600+ DSA problems** with a peak **LeetCode rating of 1660**  
-- 🌱 Strong believer in continuous learning and building real-world applications  
-- ⚡ Interested in creating products that combine **technology + creativity**  
+* 🎓 3rd-year **B.Tech Information Technology** student at **GTBIT (GGSIPU)**, Delhi
+* 💡 Passionate about building scalable and impactful digital products
+* 🚀 Exploring **Full Stack Development**, **Machine Learning**, and **Backend Engineering**
+* 🏆 Achieved a **Peak LeetCode Rating of 1702**
+* 🌱 Strong believer in continuous learning and building real-world applications
+* ⚡ Interested in creating products that combine **technology + creativity**
 
 <br clear="right"/>
 
@@ -67,12 +67,14 @@
 AI-powered ATS Resume Analyzer using **Google Gemini API**.
 
 #### ✨ Features
-- ATS compatibility analysis
-- Resume scoring system
-- Smart keyword suggestions
-- Real-time AI feedback
+
+* ATS compatibility analysis
+* Resume scoring system
+* Smart keyword suggestions
+* Real-time AI feedback
 
 #### 🛠️ Tech Stack
+
 React • Node.js • Express.js • Gemini API • Tailwind CSS
 
 ---
@@ -82,15 +84,18 @@ React • Node.js • Express.js • Gemini API • Tailwind CSS
 Machine Learning-based disease prediction system using **Random Forest Algorithm** and **Streamlit**.
 
 #### ✨ Features
-- Predicts diseases based on symptoms
-- Interactive Streamlit UI
-- Real-time predictions
-- Trained on symptom datasets
+
+* Predicts diseases based on symptoms
+* Interactive Streamlit UI
+* Real-time predictions
+* Trained on symptom datasets
 
 #### 🛠️ Tech Stack
+
 Python • Scikit-learn • Pandas • Streamlit
 
 #### 🌐 Live Demo
+
 🔗 https://disease-predictor1.streamlit.app/
 
 ---
@@ -100,12 +105,14 @@ Python • Scikit-learn • Pandas • Streamlit
 Smart tourism planning platform focused on budget-based itinerary generation.
 
 #### ✨ Features
-- Dynamic travel planning
-- Budget optimization
-- Responsive modern UI
-- Enhanced travel experience
+
+* Dynamic travel planning
+* Budget optimization
+* Responsive modern UI
+* Enhanced travel experience
 
 #### 🛠️ Tech Stack
+
 React.js • Tailwind CSS • JavaScript
 
 ---
@@ -115,30 +122,29 @@ React.js • Tailwind CSS • JavaScript
 Voice-enabled agriculture support platform designed for accessibility and regional farmers.
 
 #### ✨ Features
-- Voice-enabled support
-- Regional language accessibility
-- Farmer-focused solutions
-- User-friendly interface
+
+* Voice-enabled support
+* Regional language accessibility
+* Farmer-focused solutions
+* User-friendly interface
 
 #### 🛠️ Tech Stack
+
 React.js • APIs • JavaScript
 
 ---
 
 ## 🏆 Achievements
 
-- ⚔️ Solved **600+ DSA Problems**
-- 📈 Peak **LeetCode Rating: 1660**
-- 🏅 Finalist at **QubitX**, **MatheThon**, and **Nexathon**
-- 🥇 Secured **1st Prize** in *Debug & Run* competition
+* 📈 Achieved a **Peak LeetCode Rating of 1702**
+* 🏅 Finalist at **QubitX**, **MatheThon**, and **Nexathon**
+* 🥇 Secured **1st Prize** in *Debug & Run* competition
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
 
 <img width="49%" src="https://streak-stats.demolab.com?user=vivaangarg2005&theme=tokyonight&hide_border=true&background=0D1117" />
 
@@ -147,8 +153,6 @@ React.js • APIs • JavaScript
 <br/>
 
 <div align="center">
-
-
 
 </div>
 
