@@ -177,7 +177,7 @@ React.js • APIs • JavaScript
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/vivaangarg2005/">
+<a href="https://leetcode.com/u/vivaan2005/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
