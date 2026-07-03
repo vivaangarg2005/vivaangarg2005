@@ -46,15 +46,22 @@
 
 ---
 
-## 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack & AI Tools
 
 <div align="center">
 
+### Development
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,react,tailwind,vite,nodejs,express,git,github,vscode" />
 
-</div>
----
+### AI Tools
+<img src="https://skillicons.dev/icons?i=chatgpt,google-gemini,claude" />
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white" />
 
+</div>
+
+---
 ## 🤖 AI Tools I Use
 
 <div align="center">
