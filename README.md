@@ -49,11 +49,20 @@
 ### Development
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,react,tailwind,vite,nodejs,express,git,github,vscode" />
 
-### AI Tools
-<img src="https://skillicons.dev/icons?i=chatgpt,google-gemini,claude" />
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white" />
+---
+
+## 🤖 AI Tools I Use
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/AntiGravity-000000?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
+
+---
 
 ---
 
