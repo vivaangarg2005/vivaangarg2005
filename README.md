@@ -1,76 +1,150 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Vivaan%20Garg&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+# 👋 Hi, I'm Vivaan Garg
 
-# Full Stack Developer • AI Enthusiast • Problem Solver
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Vivaan%20Garg&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;AI-Powered+Development;DSA+%26+Problem+Solving" alt="Typing SVG" />
+<h3 align="center">Full Stack Developer • AI Enthusiast • Problem Solver</h3>
 
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Hackathon+Finalist;Exploring+Backend+Engineering;Always+Learning+New+Technologies"/>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vivaangarg.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivaangarg2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivaangarg2005)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vivaan2005/)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **3rd-year B.Tech IT Student** at GTBIT (GGSIPU), Delhi.
-- 🚀 Passionate about Full Stack Development and building AI-driven solutions.
-- 🏆 **1700+ LeetCode Rating** | Proficient in Data Structures & Algorithms.
-- 💡 Focused on writing clean, efficient code and creating seamless user experiences.
-- ⚡ Currently deepening my knowledge in Cloud Computing and GenAI through IBM SkillsBuild.
+<p align="center">
+<a href="https://vivaangarg.netlify.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+<a href="https://github.com/vivaangarg2005"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://linkedin.com/in/vivaangarg2005"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:vivaangarg2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
 ---
 
-## 🛠️ Technical Arsenal
+# 💫 About Me
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,react,tailwind,vite,nodejs,express,git,github,vscode" />
-
-### AI & Tools
-<img src="https://skillicons.dev/icons?i=chatgpt,google-gemini,claude" />
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white" />
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **AI Resume Analyzer** | ATS-optimized feedback system using Gemini API. | React, Node.js, AI API |
-| **YatraMitra** | Smart tourism platform with dynamic itinerary generation. | React, Tailwind |
-| **TaskFlow** | Kanban-style task manager with drag-and-drop. | HTML, CSS, JS |
+- 🎓 B.Tech Information Technology @ GTBIT (GGSIPU)
+- 📍 Delhi, India
+- 💻 Full Stack Developer
+- 🤖 Exploring AI & Machine Learning
+- 🏆 LeetCode Rating: **1702**
+- 🚀 Building scalable web applications using React & Node.js
+- 🌱 Currently learning Backend Architecture & System Design
 
 ---
 
-## 🏆 Achievements & Education
+# 🛠 Tech Stack
 
-- 📈 **LeetCode:** 1700+ Peak Rating.
-- 🏅 **Hackathons:** Finalist at QubitX, MatheThon, and Nexathon (Top 15).
-- 🥇 **Competition:** 1st Prize in *Debug & Run*.
-- 🎓 **Education:** B.Tech Information Technology, GGSIPU (CGPA: 9.0/10).
-- 📜 **Certification:** IBM Certified in Frontend Web Development.
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+</p>
 
 ---
 
-## 📊 Analytics
+# 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivaangarg2005&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
-</div>
+## 🧠 AI Resume Analyzer
+**Tech:** React • Node.js • Express • Tailwind CSS • Gemini API
+
+- ATS Resume Analysis
+- Resume Score
+- Smart Keyword Suggestions
+- AI Feedback
 
 ---
 
-<div align="center">
+## ✈️ YatraMitra
+**Tech:** React • Tailwind CSS • JavaScript
 
-### Let's Connect
-[**Email**](mailto:vivaangarg2005@gmail.com) | [**LinkedIn**](https://linkedin.com/in/vivaangarg2005)
+- Budget Trip Planner
+- Smart Itinerary
+- Responsive UI
 
-*Made with ❤️ by Vivaan Garg*
+---
 
-</div>
+## 📋 TaskFlow
+**Tech:** HTML • CSS • JavaScript
+
+- Kanban Board
+- Drag & Drop
+- CRUD Operations
+- Local Storage
+
+---
+
+# 🏆 Achievements
+
+- 🥇 1st Prize – Debug & Run
+- 🏅 Finalist – QubitX
+- 🏅 Finalist – MatheThon
+- 🏅 Finalist – Nexathon
+- 🔥 1702 LeetCode Rating
+- 🎓 CGPA: **9.0**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=vivaangarg2005&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivaangarg2005&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vivaangarg2005&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="https://vivaangarg.netlify.app">Portfolio</a> •
+<a href="https://linkedin.com/in/vivaangarg2005">LinkedIn</a> •
+<a href="https://github.com/vivaangarg2005">GitHub</a> •
+<a href="https://leetcode.com/u/vivaan2005/">LeetCode</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
