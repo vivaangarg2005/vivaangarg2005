@@ -138,12 +138,10 @@ Simple and responsive task management application.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img width="49%" src="https://streak-stats.demolab.com?user=vivaangarg2005&theme=tokyonight&hide_border=true"/>
 
-<br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaangarg2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -153,7 +151,6 @@ Simple and responsive task management application.
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vivaangarg2005&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
 
 ---
 
