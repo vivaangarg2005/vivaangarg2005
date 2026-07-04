@@ -76,7 +76,7 @@ LeetCode Rating : 1700+
 
 ### Tools
 
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/></p>
 
 ### AI
 
