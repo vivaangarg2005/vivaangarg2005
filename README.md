@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Vivaan Garg
 
-### Full Stack Developer • AI Enthusiast • Problem Solver
+### Full Stack Developer • AI Enthusiast • Problem Solver•   I am Back
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&duration=3000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;React+%7C+Node.js+%7C+Express;1700%2B+LeetCode+Rating;Hackathon+Finalist;Always+Learning+New+Things"/>
 
