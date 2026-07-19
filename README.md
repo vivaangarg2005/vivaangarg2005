@@ -59,24 +59,34 @@ LeetCode Rating : 1700+
 # 🛠️ Tech Stack
 
 ### Languages
-
-<p><img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+</p>
 
 ### Frontend
-
-<p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,bootstrap" />
+</p>
 
 ### Backend
-
-<p><img src="https://skillicons.dev/icons?i=nodejs,express"/></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,aws" />
+</p>
 
 ### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-<p><img src="https://skillicons.dev/icons?i=mysql"/></p>
+### Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
 
 ### Tools
-
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ### AI
 
