@@ -65,7 +65,7 @@ LeetCode Rating : 1700+
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
 ### Backend
@@ -85,12 +85,7 @@ LeetCode Rating : 1700+
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
-
-### AI
-<p>
-  <img src="https://skillicons.dev/icons?i=openai,googlecloud,pytorch" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite" />
 </p>
 
 ### AI
