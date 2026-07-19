@@ -89,6 +89,11 @@ LeetCode Rating : 1700+
 </p>
 
 ### AI
+<p>
+  <img src="https://skillicons.dev/icons?i=openai,googlecloud,pytorch" />
+</p>
+
+### AI
 
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-black"/>
