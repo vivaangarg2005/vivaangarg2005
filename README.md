@@ -80,9 +80,9 @@ LeetCode Rating : 1700+
 
 ### Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
-
 ### Tools
 
 
