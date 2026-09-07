@@ -109,6 +109,7 @@ LeetCode Rating : 1700+
 </p>
 
 AI-powered ATS Resume Analyzer built using **React**, **Node.js**, **Express**, and **Google Gemini API**.
+<br>
 <a href="https://resume-analyzer-vg.vercel.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
