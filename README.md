@@ -22,7 +22,7 @@ I build useful web products, dependable backends, and AI-powered experiences.
 
 ## 👨‍💻 About Me
 
-I'm **Vivaan Garg**, an Information Technology undergraduate at **Guru Tegh Bahadur Institute of Technology (GGSIPU)**. I enjoy turning ideas into polished applications and learning how to build systems that are secure, scalable, and maintainable.
+I'm **Vivaan Garg**, an Information Technology undergraduate at **Guru Tegh Bahadur Institute of Technology (GGSIPU)**. I enjoy building full-stack products, designing dependable backend systems, and exploring practical applications of AI.
 
 | | |
 |---|---|
@@ -30,7 +30,7 @@ I'm **Vivaan Garg**, an Information Technology undergraduate at **Guru Tegh Baha
 | 📍 **Location** | Delhi, India |
 | 📊 **CGPA** | 9.05/10 |
 | 🧠 **LeetCode contest rating** | 1716 |
-| 🎯 **Current focus** | Full-stack development, backend engineering, system design |
+| 🎯 **Current focus** | Full-stack engineering, backend development, system design |
 
 ## 🧰 Tech Stack
 
@@ -50,6 +50,7 @@ I'm **Vivaan Garg**, an Information Technology undergraduate at **Guru Tegh Baha
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend, Databases & Tools**
 
@@ -62,16 +63,39 @@ I'm **Vivaan Garg**, an Information Technology undergraduate at **Guru Tegh Baha
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
-**Also familiar with:** REST APIs, JWT authentication, HttpOnly cookies, Data Structures & Algorithms, OOP, Operating Systems, DBMS, and Computer Networks.
+**Core concepts:** Data Structures & Algorithms, OOP, Operating Systems, DBMS, Computer Networks, REST APIs, JWT authentication, and HttpOnly cookies.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛍️ The Anvor — Full-Stack E-Commerce Platform
+### TraceFlow — Behavioral Analytics & Spatial Intelligence
 
 <div align="center">
-  <img src="./The-Anvor.png" alt="The Anvor project preview" width="90%" />
+  <img src="./TraceFlow.png" alt="TraceFlow project preview" width="92%" />
+</div>
+
+**React 19 · Vite · Node.js · Express · MongoDB Atlas · Vanilla JavaScript SDK**
+
+An open-source analytics platform inspired by tools like Hotjar and Microsoft Clarity. TraceFlow captures visitor interactions, reconstructs user journeys, and visualizes click activity as heatmaps over webpage previews.
+
+- **Lightweight tracking SDK:** A zero-dependency `tracker.js` script under 4 KB minified, designed to capture page views and clicks with minimal integration.
+- **Responsive spatial analytics:** Stores pixel coordinates and viewport-relative percentages so interaction hotspots can be interpreted across screen sizes.
+- **Privacy-aware collection:** Sanitizes sensitive text and likely PII on the client before events are sent to the API.
+- **Reliable event delivery:** Batches events and uses `navigator.sendBeacon()` with a `fetch` keepalive fallback for navigation-sensitive interactions.
+- **Session journeys:** Reconstructs chronological visitor timelines with page transitions, click targets, and relative event times.
+- **Three heatmap views:** Thermal glow, a 10×10 density grid, and interactive pins, with desktop, tablet, and mobile viewport presets.
+- **Two dashboard modes:** Store Owner summaries for business insights and Technical views for event telemetry and debugging.
+- **Testing & deployment:** Reports 13/13 passing API integration tests; frontend and storefront on Vercel, ingestion API on Render, and data stored in MongoDB Atlas.
+
+**Links:** Add TraceFlow's direct GitHub repository and live dashboard URLs here.
+
+---
+
+### The Anvor — Full-Stack E-Commerce Platform
+
+<div align="center">
+  <img src="./The-Anvor.png" alt="The Anvor project preview" width="92%" />
 </div>
 
 **Next.js · TypeScript · Node.js · Express.js · MongoDB**
@@ -83,14 +107,14 @@ A full-stack shopping platform with product discovery, secure authentication, an
 - Guest cart support with automatic merging into persistent MongoDB carts after sign-in.
 - Atomic cart updates designed to maintain consistency during concurrent operations.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://the-anvor.vercel.app/)
+**Links:** Add The Anvor's direct GitHub repository and live deployment URLs here.
 
 ---
 
-### 🤖 AI Resume Analyzer
+### AI Resume Analyzer
 
 <div align="center">
-  <img src="./RA.png" alt="AI Resume Analyzer project preview" width="90%" />
+  <img src="./RA.png" alt="AI Resume Analyzer project preview" width="92%" />
 </div>
 
 **React · Tailwind CSS · Node.js · Express.js · Google Gemini API**
@@ -103,20 +127,6 @@ An AI-powered tool that analyzes PDF resumes and generates structured, role-awar
 - Uses IP-based rate limiting to help protect the API from abuse.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-analyzer-vg.vercel.app/)
-
----
-
-### ✈️ YatraMitra — Travel Companion
-
-<div align="center">
-  <img src="./YM.png" alt="YatraMitra project preview" width="90%" />
-</div>
-
-**React**
-
-A travel companion web application designed to make travel planning more approachable through a simple web experience.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://yatramitra.netlify.app)
 
 ---
 
