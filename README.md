@@ -88,7 +88,7 @@ An open-source analytics platform inspired by tools like Hotjar and Microsoft Cl
 - **Two dashboard modes:** Store Owner summaries for business insights and Technical views for event telemetry and debugging.
 - **Testing & deployment:** Reports 13/13 passing API integration tests; frontend and storefront on Vercel, ingestion API on Render, and data stored in MongoDB Atlas.
 
-**Links:** Add TraceFlow's direct GitHub repository and live dashboard URLs here.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://trace-flow-self.vercel.app/)
 
 ---
 
@@ -107,7 +107,7 @@ A full-stack shopping platform with product discovery, secure authentication, an
 - Guest cart support with automatic merging into persistent MongoDB carts after sign-in.
 - Atomic cart updates designed to maintain consistency during concurrent operations.
 
-**Links:** Add The Anvor's direct GitHub repository and live deployment URLs here.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://the-anvor.vercel.app/)
 
 ---
 
