@@ -83,7 +83,7 @@ A full-stack shopping platform with product discovery, secure authentication, an
 - Guest cart support with automatic merging into persistent MongoDB carts after sign-in.
 - Atomic cart updates designed to maintain consistency during concurrent operations.
 
-**Project links:** Add the direct GitHub repository and live deployment URLs here.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://[resume-analyzer-vg.vercel.app/](http://the-anvor.vercel.app/))
 
 ---
 
