@@ -1,197 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:38BDF8&text=Vivaan%20Garg&fontAlignY=38&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:38BDF8&text=Vivaan%20Garg&fontAlignY=38&fontSize=46&fontColor=ffffff&animation=fadeIn" alt="Vivaan Garg" />
 
-# 👋 Hi, I'm Vivaan Garg
+# Vivaan Garg
 
-### Full Stack Developer • AI Enthusiast • Problem Solver
+### Full-Stack Developer · AI Enthusiast · Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&duration=3000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;React+%7C+Node.js+%7C+Express;1700%2B+LeetCode+Rating;Hackathon+Finalist;Always+Learning+New+Things;"/>
+I build useful web products, dependable backends, and AI-powered experiences.
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://vivaangarg.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivaangarg2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivaangarg2005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vivaan2005/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivaangarg2005@gmail.com)
 
-<img width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<br><br>
-
-<a href="https://vivaangarg.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/vivaangarg2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/vivaangarg2005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vivaangarg2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/vivaan2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=vivaangarg2005&style=for-the-badge&color=38BDF8)
+<img src="https://komarev.com/ghpvc/?username=vivaangarg2005&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name       : Vivaan Garg
-Education  : B.Tech Information Technology
-University : GTBIT (GGSIPU)
-CGPA       : 9.0/10
-Location   : Delhi, India
+I'm **Vivaan Garg**, an Information Technology undergraduate at **Guru Tegh Bahadur Institute of Technology (GGSIPU)**. I enjoy turning ideas into polished applications and learning how to build systems that are secure, scalable, and maintainable.
 
-Focus:
-  - Full Stack Development
-  - Backend Development
-  - Artificial Intelligence
-  - System Design
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in Information Technology · GTBIT (GGSIPU) |
+| 📍 **Location** | Delhi, India |
+| 📊 **CGPA** | 9.05/10 |
+| 🧠 **LeetCode contest rating** | 1716 |
+| 🎯 **Current focus** | Full-stack development, backend engineering, system design |
 
-LeetCode Rating : 1700+
-```
+## 🧰 Tech Stack
 
-### 🚀 Currently
+**Languages**
 
-- 🚀 Building AI Powered Applications
-- 🌱 Learning Backend & System Design
-- 💻 Solving DSA consistently
-- 🏆 Participating in Hackathons
-- ⚡ Exploring modern web technologies
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**Frontend**
 
-# 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
+**Backend, Databases & Tools**
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,aws" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman" />
-</p>
-
-
-### AI
-
-<p>
-<img src="https://img.shields.io/badge/ChatGPT-black"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-</p>
+**Also familiar with:** REST APIs, JWT authentication, HttpOnly cookies, Data Structures & Algorithms, OOP, Operating Systems, DBMS, and Computer Networks.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 AI Resume Analyzer
-
-<p align="center">
-<img width="650" src="/RA.png"/>
-</p>
-
-AI-powered ATS Resume Analyzer built using **React**, **Node.js**, **Express**, and **Google Gemini API**.
-<br>
-
-<a href="https://resume-analyzer-vg.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-## ✈️ YatraMitra
-
-<p align="center">
-<img width="650" src="/YM.png"/>
-</p>
-
-Travel companion web application built using React.
-
-<a href="https://yatramitra.netlify.app">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-## 📋 TaskFlow
-
-<p align="center">
-<img width="650" src="/TF.png"/>
-</p>
-
-Simple and responsive task management application.
-
-<a href="https://taskflowvg.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-# 🏆 Achievements
-
-- 🥇 1st Prize — Debug & Run
-- 🏅 Finalist — QubitX
-- 🏅 Finalist — MatheThon
-- 🏅 Finalist — Nexathon
-- 🔥 1700+ LeetCode Rating
-
----
-
-# 📊 GitHub Analytics
+### 🛍️ The Anvor — Full-Stack E-Commerce Platform
 
 <div align="center">
-
-
-<img width="49%" src="https://streak-stats.demolab.com?user=vivaangarg2005&theme=tokyonight&hide_border=true"/>
-
-
-
+  <img src="./The-Anvor.png" alt="The Anvor project preview" width="90%" />
 </div>
 
-<br>
+**Next.js · TypeScript · Node.js · Express.js · MongoDB**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivaangarg2005&theme=tokyo-night&hide_border=true"/>
+A full-stack shopping platform with product discovery, secure authentication, and a persistent cart experience.
 
-<br>
+- Product browsing with filtering, pagination, and dedicated product detail pages.
+- Password- and OTP-based authentication using HttpOnly JWT cookies.
+- Guest cart support with automatic merging into persistent MongoDB carts after sign-in.
+- Atomic cart updates designed to maintain consistency during concurrent operations.
 
+**Project links:** Add the direct GitHub repository and live deployment URLs here.
 
 ---
 
-# 🌐 Connect With Me
+### 🤖 AI Resume Analyzer
 
 <div align="center">
-
-<a href="https://vivaangarg.netlify.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
-<a href="https://github.com/vivaangarg2005"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/vivaangarg2005"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:vivaangarg2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-
+  <img src="./RA.png" alt="AI Resume Analyzer project preview" width="90%" />
 </div>
 
+**React · Tailwind CSS · Node.js · Express.js · Google Gemini API**
+
+An AI-powered tool that analyzes PDF resumes and generates structured, role-aware feedback.
+
+- Identifies strengths, improvement areas, and personalized skill recommendations.
+- Uses Google Gemini for contextual resume analysis and actionable suggestions.
+- Processes PDFs in memory with Multer Memory Storage.
+- Uses IP-based rate limiting to help protect the API from abuse.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-analyzer-vg.vercel.app/)
+
 ---
+
+### ✈️ YatraMitra — Travel Companion
+
+<div align="center">
+  <img src="./YM.png" alt="YatraMitra project preview" width="90%" />
+</div>
+
+**React**
+
+A travel companion web application designed to make travel planning more approachable through a simple web experience.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://yatramitra.netlify.app)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Prize** — Debug Run competition
+- 🏅 **QubitX** — Top 10 finalist
+- 🏅 **MatheThon** — Hackathon finalist
+- 🏅 **Nexathon** — Top 15 among 150 teams
+- 🧠 **LeetCode** — 1716 contest rating
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vivaangarg2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=vivaangarg2005&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivaangarg2005&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" width="100%" />
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect about full-stack development, backend engineering, AI projects, and hackathons.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://vivaangarg.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivaangarg2005)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivaangarg2005@gmail.com)
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:38BDF8,100:0F172A" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,100:0F172A"/>
-
-### ⭐ Thanks for visiting my profile!
+*Thanks for visiting — let's build something useful.*
 
 </div>
